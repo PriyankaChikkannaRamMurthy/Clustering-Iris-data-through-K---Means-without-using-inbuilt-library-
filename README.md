@@ -92,7 +92,11 @@ With the help of Elbow method for clustering analysis of Iris dataset which is u
 References:
 
 https://www.geeksforgeeks.org/numpy-append-python/
+
 https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.random.rand.html
+
 https://www.quora.com/How-do-I-take-input-from-the-user-in-Python
+
 https://stackoverflow.com/questions/10625096/extracting-first-n-columns-of-a-numpy-matrix
+
 https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.insert.html
