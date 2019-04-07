@@ -2,13 +2,18 @@
 
 File name:
 Kmeans_Prg.py
+
 iris_data.csv - to be present in the same folder as the python file is.
+
 value of k [to be given as input to the program]
 
 Code Logic:
  Initially it was coded using the Jupyter Notebook and then downloaded as python file and been submitted.
+ 
  Pycharm is the IDE used.
+ 
  Python - 3.6 
+ 
  Numpy and matplotlib libraries used
  
 To be run as:
@@ -85,6 +90,7 @@ With the help of Elbow method for clustering analysis of Iris dataset which is u
 
 
 References:
+
 https://www.geeksforgeeks.org/numpy-append-python/
 https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.random.rand.html
 https://www.quora.com/How-do-I-take-input-from-the-user-in-Python
